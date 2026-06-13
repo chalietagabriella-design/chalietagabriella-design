@@ -1,8 +1,8 @@
-# Hi there, I'm Chalieta Gabriella Tangkau 👋
+## Hi there, I'm Chalieta Gabriella Tangkau 👋
 
 ![Chalieta Gabriella Tangkau](img/github-header-1.jpeg)
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 I am a 5th-semester Information Systems student at Universitas Pembangunan Nasional Veteran Jakarta, with a strong passion for **Web Development** and **Mobile Application Development**. I possess fundamental knowledge of both front-end and back-end technologies and am always eager to learn new things, adapt quickly, and build innovative solutions!
 
 - 🔭 **I’m currently focused on:** Building robust mobile applications using React Native and Expo SDK.
@@ -10,17 +10,27 @@ I am a 5th-semester Information Systems student at Universitas Pembangunan Nasio
 - 📫 **How to reach me:** [chalietagabriella@gmail.com](mailto:chalietagabriella@gmail.com)
 
 ---
+### Skills 
 
-## 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-`HTML5` • `CSS3` • `JavaScript` • `PHP` • `React Native (Expo)` • `Kotlin/Java`
-
-**Databases & Backend:**
-`MySQL` • `Firebase (Authentication & Firestore)`
-
-**Tools & Software:**
-`Git & GitHub` • `Visual Studio Code` • `Android Studio` • `Figma` • `Bootstrap 5`
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ---
 
