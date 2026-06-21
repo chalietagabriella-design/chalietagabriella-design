@@ -1,8 +1,8 @@
-## Hi there, I'm Chalieta Gabriella Tangkau 👋
+## Hi there, I'm Chalieta Gabriella Tangkau 
 
 ![Chalieta Gabriella Tangkau](img/github-header-1.jpeg)
 
-### 👩‍💻 About Me
+### About Me
 I am a 5th-semester Information Systems student at Universitas Pembangunan Nasional Veteran Jakarta, with a strong passion for **Web Development** and **Mobile Application Development**. I possess fundamental knowledge of both front-end and back-end technologies and am always eager to learn new things, adapt quickly, and build innovative solutions!
 
 - 🔭 **I’m currently focused on:** Building robust mobile applications using React Native and Expo SDK.
@@ -12,7 +12,16 @@ I am a 5th-semester Information Systems student at Universitas Pembangunan Nasio
 ---
 ### Skills 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+#### Technical Skills
+- HTML5
+- CSS3
+✅ JavaScript
+✅ React Native
+✅ Firebase Integration
+✅ REST API Integration
+✅ Database Management (MySQL, Firebase)
+✅ Git Version Control
+✅ Responsive Web Design
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,7 +42,7 @@ I am a 5th-semester Information Systems student at Universitas Pembangunan Nasio
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📱 Mobile Authentication Application
 A secure mobile authentication system featuring user registration, login, session management, and biometric authentication.
@@ -53,5 +62,5 @@ A mobile app for searching, browsing, and managing book collections integrating 
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chalieta-gabriella-tangkau-36a444320/)
